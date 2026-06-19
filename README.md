@@ -7,8 +7,7 @@
 
 ## About Me
 
-I'm passionate about Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and building production-ready AI systems.
-
+I'm passionate about Machine Learning, Generative AI & Agentic AI.
 Currently working as an **AI & Data Intern at Star Union Dai-ichi Life Insurance**, where I develop machine learning solutions for insurance risk assessment, renewal propensity prediction, and business automation.
 
 
