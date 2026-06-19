@@ -32,7 +32,7 @@ Currently working as an **AI & Data Intern at Star Union Dai-ichi Life Insurance
 
 ## Achievements
 
-🏆 Compex Scholarship Recipient
+🏆 Compex Scholarship 2022-2023 (MEA, Govt.of India)
 
 Ranked among the top 10 candidates out of 10,000+ applicants for academic excellence.
 
