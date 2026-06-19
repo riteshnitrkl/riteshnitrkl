@@ -1,4 +1,4 @@
-# Hi, I'm Ritesh Kumar Chaurasiya 👋
+# Hey, I'm Ritesh Chaurasiya 
 
  AI & Machine Learning Engineer  
  B.Tech CSE, NIT Rourkela (2022–2026)
