@@ -43,9 +43,7 @@ Ranked among the top 10 candidates out of 10,000+ applicants for academic excell
 
 📧 Email: riteshnitrkl@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
-
-💻 LeetCode: https://leetcode.com/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/riteshnitrkl/
 
 🌐 GitHub: https://github.com/riteshnitrkl
 
